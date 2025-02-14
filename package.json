@@ -1,6 +1,6 @@
-"homepage": "https://dpokhoy.github.io/task-manager-app"
+"homepage": "https://DPokhoy.github.io/Task-Manager-App"
 {
-  "name": "task-manager-app",
+  "name": "Task-Manager-App",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
